@@ -8,17 +8,17 @@ export default function About() {
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Nikhil Vallore.
             <br className="hidden lg:inline-block" />
-            <p className="font-small sm:text-2xl">I love to solve real-world problems using a fresh perspective.</p>
+            <p className="font-small sm:text-2xl">Software Engineer with passion and experience to build web and mobile applications using out-of-the-box creativity.</p>
           </h1>
           <p className="mb-8 leading-relaxed">
-            On my path to become a Solution Architect, I have been trying to understand the pros and cons of different technologies which helps me find a solution to
-            a given Use Case. My main interest is building scalable and robust architecture.
+            As a Full stack developer, I am passionate about using the latest tools and technology to solve real-world problems and I strongly believe in the power of mentorship. My mentees appreciate my clear and concise teaching style, and ability to explain complex concepts in an easy-to-understand way. I have mentored several aspiring software developers to master the skills they need to succeed in the tech industry and also students to clear interviews and write research papers. I am also a strong believer in Web3(It will seriously blow your mind 🤯) And have a good knowledge of building DApp on Ethereum Blockchain.
           </p>
           <div className="flex justify-center">
             <a
-              href="#contact"
+              href="https://topmate.io/vallore_nikhil"
+              target="_blank"
               className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
-              Work With Me
+              Book a 1:1
             </a>
             <a
               href="#projects"
